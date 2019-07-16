@@ -1,0 +1,1 @@
+"use strict";require.config({baseUrl:"https://cdn.bootcss.com/",paths:{jquery:"jquery/3.4.1/jquery.min",jqcookie:"jquery-cookie/1.4.1/jquery.cookie.min",jqlazyload:"jquery_lazyload/1.9.7/jquery.lazyload.min"},shim:{deps:[""],exports:""}});
